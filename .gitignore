@@ -1,0 +1,9 @@
+# Visual Studio Code files
+.vscode/
+
+# Python's virtual environment
+.env/
+.venv/
+venv/
+env/
+
